@@ -8,7 +8,7 @@ Minor script for housing competetion on kaggle.
  - Bayesian optimization of XGBoost and LightGBM hyperparameters
  - XGBoost and LightGBM trained over 5 different seeds, whereafter their predictions on the test-set are averaged for the final submission
  
- Running BayeXGB.py will perform abovementioned steps and save the result in submission.csv that can be directly uploaded to Kaggle.
+ Running BayeXGB.py will perform aforementioned steps and save the result in submission.csv that can be directly uploaded to Kaggle.
  
  Ideas for additional work:
   - Further datapreprocessing (Outlier removal, skewness corrections etc.)
